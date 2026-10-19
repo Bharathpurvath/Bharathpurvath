@@ -48,9 +48,9 @@ A smart-farming prototype that simulates sensor readings, stores them in SQLite,
 
 ### 3. Personal Portfolio Website
 
-A lightweight responsive portfolio built with HTML and CSS, featuring an introduction, technical skills, selected projects, and contact links.
+A responsive portfolio built with HTML and CSS, featuring an introduction, technical skills, selected projects, experience, and contact links.
 
-**[Source Code](https://github.com/Bharathpurvath/bharath-portfolio)**
+**[Live Portfolio](https://bharathpurvath.github.io/bharath-portfolio/) · [Source Code](https://github.com/Bharathpurvath/bharath-portfolio)**
 
 ## Current Focus
 
@@ -62,6 +62,7 @@ A lightweight responsive portfolio built with HTML and CSS, featuring an introdu
 ## Connect
 
 - **GitHub:** [@Bharathpurvath](https://github.com/Bharathpurvath)
+- **LinkedIn:** [Bharath B](https://linkedin.com/in/bharath-b-3a0bb9207)
 - **X:** [@Bharath70145101](https://x.com/Bharath70145101)
 
 ---
