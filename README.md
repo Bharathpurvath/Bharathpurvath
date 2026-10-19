@@ -46,6 +46,12 @@ A smart-farming prototype that simulates sensor readings, stores them in SQLite,
 
 **[Source Code](https://github.com/Bharathpurvath/Bharath.B)**
 
+### 3. Personal Portfolio Website
+
+A lightweight responsive portfolio built with HTML and CSS, featuring an introduction, technical skills, selected projects, and contact links.
+
+**[Source Code](https://github.com/Bharathpurvath/bharath-portfolio)**
+
 ## Current Focus
 
 - Building full stack applications
