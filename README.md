@@ -2,12 +2,12 @@
 
 ### Junior Software Developer | React | JavaScript | Python
 
-I'm a developer who enjoys building practical web applications, exploring new technologies, and solving problems through code.
+I build practical web applications and automation tools, with an interest in full stack development, APIs, and software quality.
 
-- Building responsive web applications with React
-- Working with JavaScript, Python, SQL, and Node.js
-- Interested in full stack development, automation, and software quality
-- Continuously learning and building projects to improve my skills
+- Building responsive user interfaces with React
+- Developing backend APIs with Python and Node.js
+- Working with SQL databases and browser storage
+- Learning by shipping projects and improving them through feedback
 
 ## Technical Skills
 
@@ -15,26 +15,36 @@ I'm a developer who enjoys building practical web applications, exploring new te
 
 **Frontend:** React, Tailwind CSS, HTML5, CSS3
 
-**Backend:** Node.js, Express.js
+**Backend:** FastAPI, Node.js, Express.js
 
-**Databases:** MySQL, SQLite
+**Databases:** SQLite, MySQL
 
 **Tools:** Git, GitHub, VS Code, Vite, JIRA
 
-## Featured Project
+## Projects
 
-### FileBuddy
+### 1. FileBuddy
 
 A responsive browser-based file manager built with React.
 
-**Features**
 - Drag-and-drop file uploads
-- Image previews and file downloads
-- Search and file management
-- Persistent browser storage using IndexedDB
+- Image previews, downloads, file removal, and search
+- Local persistence using IndexedDB
 - Responsive interface for desktop and mobile
 
-**Links:** [Live Demo](https://lambent-chaja-765d34.netlify.app/) | [Source Code](https://github.com/Bharathpurvath/filebuddy)
+**[Live Demo](https://lambent-chaja-765d34.netlify.app/) · [Source Code](https://github.com/Bharathpurvath/filebuddy)**
+
+### 2. Smart Farming IoT Dashboard
+
+A smart-farming prototype that simulates sensor readings, stores them in SQLite, and displays farm conditions in a web dashboard. The current version uses simulated readings and is structured for a later ESP32 connection.
+
+- FastAPI backend with interactive API documentation
+- SQLite storage for sensor readings
+- Dashboard refreshes sensor cards and recent readings
+- Low-soil-moisture alert and simulated irrigation logic
+- Low-water safeguard for the simulated pump
+
+**[Source Code](https://github.com/Bharathpurvath/Bharath.B)**
 
 ## Current Focus
 
@@ -43,9 +53,10 @@ A responsive browser-based file manager built with React.
 - Exploring AI-assisted development and automation
 - Creating projects that solve practical problems
 
-## Connect With Me
+## Connect
 
 - **GitHub:** [@Bharathpurvath](https://github.com/Bharathpurvath)
+- **X:** [@Bharath70145101](https://x.com/Bharath70145101)
 
 ---
 
